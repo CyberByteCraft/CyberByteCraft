@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile!  
+wo# 👋 Welcome to My GitHub Profile!  
 
 I'm passionate about coding, creativity, and exploring new technologies. Here's a glimpse into my tools, stats, and how you can connect with me.
 
@@ -10,6 +10,8 @@ I'm passionate about coding, creativity, and exploring new technologies. Here's 
 [![](https://skillicons.dev/icons?i=discordbots)](https://discord.dev/ "Discord Bots")
 [![](https://skillicons.dev/icons?i=html)](## "HTML")
 [![](https://skillicons.dev/icons?i=css)](## "CSS")
+[![](https://skillicons.dev/icons?i=docker)](## "Docker")
+[![](https://skillicons.dev/icons?i=css)](## "")
 [![](https://skillicons.dev/icons?i=git)](https://git-scm.com/ "Git")
 [![](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/ "SQLite")
 
