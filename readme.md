@@ -18,7 +18,6 @@ I'm passionate about coding, creativity, and exploring new technologies. Here's 
 [![](https://skillicons.dev/icons?i=cloudflare)](## "Cloudflare")
 [![](https://skillicons.dev/icons?i=unity)](## "Unity")
 [![](https://skillicons.dev/icons?i=blender)](## "Blender")
-[![](https://skillicons.dev/icons?i=cloudflare)](## "Cloudflare")
 
 ---
 
